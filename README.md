@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adriana Elias Ferreira
+- 👋 Hi, I’m Adriana Ferreira
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me adriana.elias.ferreira@hotmail.com
