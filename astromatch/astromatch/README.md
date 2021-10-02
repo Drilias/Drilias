@@ -5,7 +5,9 @@ Reprodução de site de relacionamento
 ### Tecnologias utilizadas 
 
 -React 
+
 -Axios 
+
 -Material UI 
 
 ### Funcionalidades 
