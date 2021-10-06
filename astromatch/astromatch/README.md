@@ -4,11 +4,9 @@ Reprodução de site de relacionamento
 
 #### Tecnologias utilizadas 
 
--React 
+-React.js
 
 -Axios 
-
--Material UI 
 
 #### Link
 http://astromacth-project-paiva.surge.sh/
