@@ -1,4 +1,10 @@
+<p align="center">
+    <img src="https://github.com/Drilias/Drilias/blob/main/ami.png" width="100%"/>
+</p>
+
+<br/>
 # 👋 Hi there, I'm Adriana Ferreira
+
 
 ### 📓  I’m a Full Stack Web Developer and Economist
 ### 💻  Languages and technologies:  HTML, CSS, Javascript, React.js, Node.js, TypeScript, MySQL e AWS
