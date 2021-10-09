@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://github.com/Drilias/Drilias/blob/main/ami.png" width="90%"/>
+    <img src="https://github.com/Drilias/Drilias/blob/main/ami.png" width="100%"/>
 </p>
 <br/>
 
-<h3>My tech stack is below, I love to practice them but am open to exploring other technologies also. I've studied programing at Labenu's bootcamp and I have been developing front and back end projects. I have always wanted to developer, to learn and contribute to technology. I'm a good problem solver, I like to colaborate and make the diference.</h3>
+<h3 justify='center'>My tech stack is below, I love to practice them but am open to exploring other technologies also. I've studied programing at Labenu's bootcamp and I have been developing front and back end projects. I have always wanted to developer, to learn and contribute to technology. I'm a good problem solver, I like to colaborate and make the diference.</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
