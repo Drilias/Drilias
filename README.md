@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Drilias/Drilias/blob/main/ami.png" width="100%"/>
+    <img src="https://github.com/Drilias/Drilias/blob/main/giphy.gif" width="100%"/>
 </p>
 <br/>
 
