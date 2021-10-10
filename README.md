@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://github.com/Drilias/Drilias/blob/main/giphy.gif" width="100%"/>
 </p>
+<br/>
 
 <h3 align='justify'>My tech stack follows below. I love to practice them, but I am open to explore others technologies also. I've studied programming at Labenu's bootcamp, since then I've been developing front and back end projects. I've always wanted to be a developer, to learn technology and contribute to this field. I'm a good problem solver, I'd like to colaborate and make the diference.</h3>
 <br/>
@@ -16,7 +17,7 @@
 </div>
 <br/>
 
-### 👀  Take a look at my experiences https://www.linkedin.com/in/adriana-developer/
+### 👀  Take a look at my experiences https://www.linkedin.com/in/adriana-developer
 ### 📫  How to reach me adriana.elias.ferreira@hotmail.com
 
 <!---
