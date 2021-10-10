@@ -6,9 +6,9 @@ Aplicativo básico de controle financeiro
 https://expenses-controller.surge.sh
 
 #### Tecnologias:
--Typescript
--React
--styled-components
+-Typescript;
+-React;
+-styled-components.
 
 #### Funcionalidades:
 - adicionar receitas ou despesas;
