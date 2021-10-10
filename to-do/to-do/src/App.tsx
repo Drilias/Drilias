@@ -7,7 +7,7 @@ import AddArea from './components/AddArea';
 const App = () => {
   const [list, setList] = useState<Item[]>([
     {id:1, name:'Fazer declaração de renda', done:true},
-    {id:2, name:'Comprar adaptador bluetooth', done:false}    
+    {id:2, name:'Checar e-mail', done:false}    
   ]);
 
   const handleAddTask = (taskName:string) => {
