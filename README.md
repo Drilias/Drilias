@@ -1,24 +1,25 @@
-<p align="center">
-    <img src="https://github.com/Drilias/Drilias/blob/main/giphy.gif" width="100%"/>
-</p>
+### Informações sobre o projeto:
 
-<h3 align='justify'>My tech stack follows below. I love to practice them, but I am open to explore others technologies also. I've studied programming at Labenu's bootcamp, since then I've been developing front and back end projects. I've always wanted to be a developer, to learn technology and contribute to this field. I'm a good problem solver, I'd like to colaborate and make the diference.</h3>
+Usando a API de filmes gratuita [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction) em sua versão 3, criar uma listagem dos filmes mais populares do dia, consultando o endpoint [`GET /movie/popular`](https://developers.themoviedb.org/3/movies/get-popular-movies) para realizar a listagem. Ao clicar em um item dessa listagem, outra página com os detalhes do filme escolhido deve ser exibida. Para acessar mais detalhes sobre o filme, consultar o endpoint [`GET /movie/{movie_id}`](https://developers.themoviedb.org/3/movies/get-movie-details).
 
-<div style="display: inline_block" align='center'><br>
-  <img align="center" hspace="8" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" hspace="8" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" hspace="8" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" hspace="8" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" hspace="8" alt="Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" hspace="8" alt="TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-  <img align="center" hspace="8" alt="Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-<br/>
+Criar um filtro usando seus genêros favoritos.Note que um novo endpoint deverá ser consultado para obter uma lista dos possíveis gêneros a serem filtrados, [`GET /genre/movie/list`](https://developers.themoviedb.org/3/genres/get-movie-list).
 
-### 👀  Take a look at my experiences https://www.linkedin.com/in/adriana-developer
-### 📫  How to reach me adriana.elias.ferreira@hotmail.com
+Para garantir que o usuário encontre o filme que está procurando, essa lista deverá ser paginada sempre que não existir nenhum filtro de gênero ativo.
 
-<!---
-Drilias/Drilias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Funcionalidades:
+
+- Acesso a uma listagem dos filmes mais populares do dia
+
+- Paginação da lista para encontrar novos filmes
+
+- Filtro dos filmes listados por gênero.
+
+- Remoção de filtros e atualização da listagem de acordo com o filtro removido
+
+- Acesso a uma outra página com detalhes sobre o filme, ao clicar em um item na listagem
+
+- Botão de voltar para a página de listagem de filmes
+
+---
