@@ -16,7 +16,7 @@
 <div>
   <h3 align="justify">My tech stack follows above. I love to practice them, I'm open to try others technologies though.
     I've studied at the Labenu's Full Stack Development course, since then I've been developing front and back end projects.
-    I'd like to learn, share, contribute to the technological field and make the diference.
+    I'd like to learn, share, contribute to this field and make the diference.
   </h3>
 </div>
 
