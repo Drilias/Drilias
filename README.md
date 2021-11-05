@@ -1,11 +1,11 @@
 <div justify="center">
-  <img width="100vw" height="250px" src="https://github.com/Drilias/Drilias/blob/main/giphy.gif"/>
+  <img width="900px" height="260px" src="https://github.com/Drilias/Drilias/blob/main/giphy.gif"/>
 </div>
 </br>
 
 
 
-### 👀 Take a look at my professional experiences https://www.linkedin.com/in/adriana-developer
-### 📫 How to reach me: adriana.elias.ferreira@hotmail.com
+#### 👀 Take a look at my professional experiences https://www.linkedin.com/in/adriana-developer
+#### 📫 How to reach me: adriana.elias.ferreira@hotmail.com
 
 
