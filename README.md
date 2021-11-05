@@ -1,7 +1,7 @@
 <div justify="center">
-  <img width="900px" height="250px" src="https://github.com/Drilias/Drilias/blob/main/giphy.gif"/>
+  <img width="100vw" height="250px" src="https://github.com/Drilias/Drilias/blob/main/giphy.gif"/>
 </div>
-</br
+</br>
 
 
 
