@@ -13,7 +13,14 @@
    <img justify="center"  alt="mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-#### 👀 Take a look at my professional experiences https://www.linkedin.com/in/adriana-developer
-#### 📫 How to reach me: adriana.elias.ferreira@hotmail.com
+<div>
+  <h3 align="justify">My tech stack follows below. I love to practice them, I'm open to learn and try others languages though.
+    I've studied at the Labenu's Full Stack Development course, since then I've been developing front and back end projects.
+    I'd like to contribute to the technology field and make the diference.
+  </h3>
+</div>
+
+### 👀 Take a look at my professional experiences https://www.linkedin.com/in/adriana-developer
+### 📫 How to reach me: adriana.elias.ferreira@hotmail.com
 
 
