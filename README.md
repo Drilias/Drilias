@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <h3 align="justify">My tech stack follows below. I love to practice them, I'm open to try others languages though.
+  <h3 align="justify">My tech stack follows above. I love to practice them, I'm open to try others languages though.
     I've studied at the Labenu's Full Stack Development course, since then I've been developing front and back end projects.
     I'd like to contribute to the technology field and make the diference.
   </h3>
