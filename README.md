@@ -5,6 +5,7 @@
 
 
 
-### 💬 Take a look at my professional experiences ...
-### 📫 How to reach me: ...
+### 👀 Take a look at my professional experiences https://www.linkedin.com/in/adriana-developer
+### 📫 How to reach me: adriana.elias.ferreira@hotmail.com
+
 
