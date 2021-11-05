@@ -1,5 +1,5 @@
 <div justify="center">
-  <img width="400px" height="200px" src="https://github.com/Drilias/Drilias/blob/main/giphy.gif"/>
+  <img width="600px" height="300px" src="https://github.com/Drilias/Drilias/blob/main/giphy.gif"/>
 </div>
 </br
 
