@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 export const api = axios.create({
-    baseURL: 'https://us-central1-missao-newton.cloudfunctions.net/astroMatch/lucas-bacelar'
+    baseURL: 'https://us-central1-missao-newton.cloudfunctions.net/astroMatch/adriana-ferreira'
 })
 
 export const getProfiles = () => {
